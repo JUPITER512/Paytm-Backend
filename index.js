@@ -9,3 +9,5 @@ app.use("/api/v1",appRouter)
 app.listen(port,()=>{
     console.log("Backend is up on port "+ port)
 })
+
+module.exports = app
