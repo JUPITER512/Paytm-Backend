@@ -1,0 +1,2 @@
+JWT_SECRET="ABC123!12"
+module.exports=JWT_SECRET
